@@ -11,6 +11,7 @@
         <div>
             <h1>This is a sample Net Page</h1>
             <p>This next line should be bold. <b>This is a bold line in paragraph</b></p>
+            <p>Another paragraph......</p>
         </div>
     </form>
 </body>
