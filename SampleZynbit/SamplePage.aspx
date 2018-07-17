@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1>This is a sample Net Page</h1>
+            <h1>This is a sample dotNet Page</h1>
             <p>This next line should be bold. <b>This is a bold line in paragraph</b></p>
             <p>Another paragraph..........</p>
 
